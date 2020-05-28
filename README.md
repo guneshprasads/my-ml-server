@@ -13,5 +13,6 @@ In the `backend` directory there is Django application.
 
 In the `docker` directory there are dockerfiles for running the service in the container.
 
-To Run the application you want run the ##python manage.py runserver
+To Run the application you want run the 
+## python manage.py runserver
 
